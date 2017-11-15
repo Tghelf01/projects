@@ -1,0 +1,88 @@
+C:\Users\thelfrich\Desktop\USGSProjects\pHAveraging\pHAveraging\bin\Debug\pHAveraging.exe.config
+C:\Users\thelfrich\Desktop\USGSProjects\pHAveraging\pHAveraging\bin\Debug\pHAveraging.exe
+C:\Users\thelfrich\Desktop\USGSProjects\pHAveraging\pHAveraging\bin\Debug\pHAveraging.pdb
+C:\Users\thelfrich\Desktop\USGSProjects\pHAveraging\pHAveraging\bin\Debug\MahApps.Metro.dll
+C:\Users\thelfrich\Desktop\USGSProjects\pHAveraging\pHAveraging\bin\Debug\MahApps.Metro.IconPacks.dll
+C:\Users\thelfrich\Desktop\USGSProjects\pHAveraging\pHAveraging\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\thelfrich\Desktop\USGSProjects\pHAveraging\pHAveraging\bin\Debug\MahApps.Metro.pdb
+C:\Users\thelfrich\Desktop\USGSProjects\pHAveraging\pHAveraging\bin\Debug\MahApps.Metro.xml
+C:\Users\thelfrich\Desktop\USGSProjects\pHAveraging\pHAveraging\bin\Debug\MahApps.Metro.IconPacks.pdb
+C:\Users\thelfrich\Desktop\USGSProjects\pHAveraging\pHAveraging\bin\Debug\MahApps.Metro.IconPacks.xml
+C:\Users\thelfrich\Desktop\USGSProjects\pHAveraging\pHAveraging\obj\Debug\pHAveraging.csprojResolveAssemblyReference.cache
+C:\Users\thelfrich\Desktop\USGSProjects\pHAveraging\pHAveraging\obj\Debug\MainWindow.g.cs
+C:\Users\thelfrich\Desktop\USGSProjects\pHAveraging\pHAveraging\obj\Debug\App.g.cs
+C:\Users\thelfrich\Desktop\USGSProjects\pHAveraging\pHAveraging\obj\Debug\pHAveraging_MarkupCompile.cache
+C:\Users\thelfrich\Desktop\USGSProjects\pHAveraging\pHAveraging\obj\Debug\pHAveraging_MarkupCompile.lref
+C:\Users\thelfrich\Desktop\USGSProjects\pHAveraging\pHAveraging\obj\Debug\App.baml
+C:\Users\thelfrich\Desktop\USGSProjects\pHAveraging\pHAveraging\obj\Debug\MainWindow.baml
+C:\Users\thelfrich\Desktop\USGSProjects\pHAveraging\pHAveraging\obj\Debug\pHAveraging.g.resources
+C:\Users\thelfrich\Desktop\USGSProjects\pHAveraging\pHAveraging\obj\Debug\pHAveraging.Properties.Resources.resources
+C:\Users\thelfrich\Desktop\USGSProjects\pHAveraging\pHAveraging\obj\Debug\pHAveraging.csproj.GenerateResource.Cache
+C:\Users\thelfrich\Desktop\USGSProjects\pHAveraging\pHAveraging\obj\Debug\pHAveraging.exe
+C:\Users\thelfrich\Desktop\USGSProjects\pHAveraging\pHAveraging\obj\Debug\pHAveraging.pdb
+C:\Users\thelfrich\Desktop\pHAveraging\pHAveraging\bin\Debug\pHAveraging.exe.config
+C:\Users\thelfrich\Desktop\pHAveraging\pHAveraging\obj\Debug\pHAveraging.exe
+C:\Users\thelfrich\Desktop\pHAveraging\pHAveraging\obj\Debug\pHAveraging.pdb
+C:\Users\thelfrich\Desktop\pHAveraging\pHAveraging\obj\Debug\pHAveraging.csprojResolveAssemblyReference.cache
+C:\Users\thelfrich\Desktop\pHAveraging\pHAveraging\obj\Debug\MainWindow.g.cs
+C:\Users\thelfrich\Desktop\pHAveraging\pHAveraging\obj\Debug\App.g.cs
+C:\Users\thelfrich\Desktop\pHAveraging\pHAveraging\obj\Debug\pHAveraging_MarkupCompile.cache
+C:\Users\thelfrich\Desktop\pHAveraging\pHAveraging\obj\Debug\pHAveraging_MarkupCompile.lref
+C:\Users\thelfrich\Desktop\pHAveraging\pHAveraging\bin\Debug\pHAveraging.exe
+C:\Users\thelfrich\Desktop\pHAveraging\pHAveraging\bin\Debug\pHAveraging.pdb
+C:\Users\thelfrich\Desktop\pHAveraging\pHAveraging\bin\Debug\MahApps.Metro.dll
+C:\Users\thelfrich\Desktop\pHAveraging\pHAveraging\bin\Debug\MahApps.Metro.IconPacks.dll
+C:\Users\thelfrich\Desktop\pHAveraging\pHAveraging\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\thelfrich\Desktop\pHAveraging\pHAveraging\bin\Debug\MahApps.Metro.pdb
+C:\Users\thelfrich\Desktop\pHAveraging\pHAveraging\bin\Debug\MahApps.Metro.xml
+C:\Users\thelfrich\Desktop\pHAveraging\pHAveraging\bin\Debug\MahApps.Metro.IconPacks.pdb
+C:\Users\thelfrich\Desktop\pHAveraging\pHAveraging\bin\Debug\MahApps.Metro.IconPacks.xml
+C:\Users\thelfrich\Desktop\pHAveraging\pHAveraging\obj\Debug\App.baml
+C:\Users\thelfrich\Desktop\pHAveraging\pHAveraging\obj\Debug\MainWindow.baml
+C:\Users\thelfrich\Desktop\pHAveraging\pHAveraging\obj\Debug\pHAveraging.g.resources
+C:\Users\thelfrich\Desktop\pHAveraging\pHAveraging\obj\Debug\pHAveraging.Properties.Resources.resources
+C:\Users\thelfrich\Desktop\pHAveraging\pHAveraging\obj\Debug\pHAveraging.csproj.GenerateResource.Cache
+C:\Users\thelfrich\Desktop\pHAveraging10-24-2017\pHAveraging\bin\Debug\pHAveraging.exe.config
+C:\Users\thelfrich\Desktop\pHAveraging10-24-2017\pHAveraging\obj\Debug\pHAveraging.exe
+C:\Users\thelfrich\Desktop\pHAveraging10-24-2017\pHAveraging\obj\Debug\pHAveraging.pdb
+C:\Users\thelfrich\Desktop\pHAveraging10-24-2017\pHAveraging\obj\Debug\pHAveraging.csprojResolveAssemblyReference.cache
+C:\Users\thelfrich\Desktop\pHAveraging10-24-2017\pHAveraging\obj\Debug\MainWindow.g.cs
+C:\Users\thelfrich\Desktop\pHAveraging10-24-2017\pHAveraging\obj\Debug\App.g.cs
+C:\Users\thelfrich\Desktop\pHAveraging10-24-2017\pHAveraging\obj\Debug\pHAveraging_MarkupCompile.cache
+C:\Users\thelfrich\Desktop\pHAveraging10-24-2017\pHAveraging\obj\Debug\pHAveraging_MarkupCompile.lref
+C:\Users\thelfrich\Desktop\pHAveraging10-24-2017\pHAveraging\bin\Debug\pHAveraging.exe
+C:\Users\thelfrich\Desktop\pHAveraging10-24-2017\pHAveraging\bin\Debug\pHAveraging.pdb
+C:\Users\thelfrich\Desktop\pHAveraging10-24-2017\pHAveraging\bin\Debug\MahApps.Metro.dll
+C:\Users\thelfrich\Desktop\pHAveraging10-24-2017\pHAveraging\bin\Debug\MahApps.Metro.IconPacks.dll
+C:\Users\thelfrich\Desktop\pHAveraging10-24-2017\pHAveraging\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\thelfrich\Desktop\pHAveraging10-24-2017\pHAveraging\bin\Debug\MahApps.Metro.pdb
+C:\Users\thelfrich\Desktop\pHAveraging10-24-2017\pHAveraging\bin\Debug\MahApps.Metro.xml
+C:\Users\thelfrich\Desktop\pHAveraging10-24-2017\pHAveraging\bin\Debug\MahApps.Metro.IconPacks.pdb
+C:\Users\thelfrich\Desktop\pHAveraging10-24-2017\pHAveraging\bin\Debug\MahApps.Metro.IconPacks.xml
+C:\Users\thelfrich\Desktop\pHAveraging10-24-2017\pHAveraging\obj\Debug\App.baml
+C:\Users\thelfrich\Desktop\pHAveraging10-24-2017\pHAveraging\obj\Debug\MainWindow.baml
+C:\Users\thelfrich\Desktop\pHAveraging10-24-2017\pHAveraging\obj\Debug\pHAveraging.g.resources
+C:\Users\thelfrich\Desktop\pHAveraging10-24-2017\pHAveraging\obj\Debug\pHAveraging.Properties.Resources.resources
+C:\Users\thelfrich\Desktop\pHAveraging10-24-2017\pHAveraging\obj\Debug\pHAveraging.csproj.GenerateResource.Cache
+C:\Users\thelfrich\Desktop\pHAveragingFinal 11-10-2017\pHAveraging\bin\Debug\pHAveraging.exe.config
+C:\Users\thelfrich\Desktop\pHAveragingFinal 11-10-2017\pHAveraging\obj\Debug\pHAveraging.exe
+C:\Users\thelfrich\Desktop\pHAveragingFinal 11-10-2017\pHAveraging\obj\Debug\pHAveraging.pdb
+C:\Users\thelfrich\Desktop\pHAveragingFinal 11-10-2017\pHAveraging\bin\Debug\pHAveraging.exe
+C:\Users\thelfrich\Desktop\pHAveragingFinal 11-10-2017\pHAveraging\bin\Debug\pHAveraging.pdb
+C:\Users\thelfrich\Desktop\pHAveragingFinal 11-10-2017\pHAveraging\bin\Debug\MahApps.Metro.dll
+C:\Users\thelfrich\Desktop\pHAveragingFinal 11-10-2017\pHAveraging\bin\Debug\MahApps.Metro.IconPacks.dll
+C:\Users\thelfrich\Desktop\pHAveragingFinal 11-10-2017\pHAveraging\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\thelfrich\Desktop\pHAveragingFinal 11-10-2017\pHAveraging\bin\Debug\MahApps.Metro.pdb
+C:\Users\thelfrich\Desktop\pHAveragingFinal 11-10-2017\pHAveraging\bin\Debug\MahApps.Metro.xml
+C:\Users\thelfrich\Desktop\pHAveragingFinal 11-10-2017\pHAveraging\bin\Debug\MahApps.Metro.IconPacks.pdb
+C:\Users\thelfrich\Desktop\pHAveragingFinal 11-10-2017\pHAveraging\bin\Debug\MahApps.Metro.IconPacks.xml
+C:\Users\thelfrich\Desktop\pHAveragingFinal 11-10-2017\pHAveraging\obj\Debug\pHAveraging.csprojResolveAssemblyReference.cache
+C:\Users\thelfrich\Desktop\pHAveragingFinal 11-10-2017\pHAveraging\obj\Debug\MainWindow.g.cs
+C:\Users\thelfrich\Desktop\pHAveragingFinal 11-10-2017\pHAveraging\obj\Debug\App.g.cs
+C:\Users\thelfrich\Desktop\pHAveragingFinal 11-10-2017\pHAveraging\obj\Debug\pHAveraging_MarkupCompile.cache
+C:\Users\thelfrich\Desktop\pHAveragingFinal 11-10-2017\pHAveraging\obj\Debug\pHAveraging_MarkupCompile.lref
+C:\Users\thelfrich\Desktop\pHAveragingFinal 11-10-2017\pHAveraging\obj\Debug\App.baml
+C:\Users\thelfrich\Desktop\pHAveragingFinal 11-10-2017\pHAveraging\obj\Debug\MainWindow.baml
+C:\Users\thelfrich\Desktop\pHAveragingFinal 11-10-2017\pHAveraging\obj\Debug\pHAveraging.g.resources
+C:\Users\thelfrich\Desktop\pHAveragingFinal 11-10-2017\pHAveraging\obj\Debug\pHAveraging.Properties.Resources.resources
+C:\Users\thelfrich\Desktop\pHAveragingFinal 11-10-2017\pHAveraging\obj\Debug\pHAveraging.csproj.GenerateResource.Cache

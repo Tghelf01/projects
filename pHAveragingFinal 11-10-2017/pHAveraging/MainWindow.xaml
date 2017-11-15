@@ -1,0 +1,66 @@
+﻿<Controls:MetroWindow x:Class="pHAveraging.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:pHAveraging"
+        xmlns:Controls="http://metro.mahapps.com/winfx/xaml/controls"
+        xmlns:iconPacks="http://metro.mahapps.com/winfx/xaml/iconpacks"
+        mc:Ignorable="d"
+        Title="pH Averaging" Height="550" Width="325">
+
+    <Border Padding="10">
+    <StackPanel>
+        <!--Header Textblock-->
+        <TextBlock Style="{StaticResource MyTextBlockHeader}" Text="Ph Values to Average" HorizontalAlignment="Center"/>
+            <TextBlock Style="{StaticResource MyTextBlockHeader}" Text="Enter pH values below:" HorizontalAlignment="Center" FontSize="12"/>
+            <!--ph Values-->
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                </Grid.RowDefinitions>
+
+
+                <Controls:NumericUpDown Value="{Binding pH1, Mode=TwoWay}" Style="{StaticResource MyNumericUpDown}" Grid.Column="0" Grid.Row="0" />
+                <Controls:NumericUpDown Value="{Binding pH11, Mode=TwoWay}" Style="{StaticResource MyNumericUpDown}" Grid.Column="1" Grid.Row="0"/>
+                <Controls:NumericUpDown Value="{Binding pH2, Mode=TwoWay}" Style="{StaticResource MyNumericUpDown}" Grid.Column="0" Grid.Row="1"/>
+                <Controls:NumericUpDown Value="{Binding pH12, Mode=TwoWay}" Style="{StaticResource MyNumericUpDown}" Grid.Column="1" Grid.Row="1"/>
+                <Controls:NumericUpDown Value="{Binding pH3, Mode=TwoWay}" Style="{StaticResource MyNumericUpDown}" Grid.Column="0" Grid.Row="2"/>
+                <Controls:NumericUpDown Value="{Binding pH13, Mode=TwoWay}" Style="{StaticResource MyNumericUpDown}" Grid.Column="1" Grid.Row="2"/>
+                <Controls:NumericUpDown Value="{Binding pH4, Mode=TwoWay}" Style="{StaticResource MyNumericUpDown}" Grid.Column="0" Grid.Row="3"/>
+                <Controls:NumericUpDown Value="{Binding pH14, Mode=TwoWay}" Style="{StaticResource MyNumericUpDown}" Grid.Column="1" Grid.Row="3"/>
+                <Controls:NumericUpDown Value="{Binding pH5, Mode=TwoWay}" Style="{StaticResource MyNumericUpDown}" Grid.Column="0" Grid.Row="4"/>
+                <Controls:NumericUpDown Value="{Binding pH15, Mode=TwoWay}" Style="{StaticResource MyNumericUpDown}" Grid.Column="1" Grid.Row="4"/>
+                <Controls:NumericUpDown Value="{Binding pH6, Mode=TwoWay}" Style="{StaticResource MyNumericUpDown}" Grid.Column="0" Grid.Row="5"/>
+                <Controls:NumericUpDown Value="{Binding pH16, Mode=TwoWay}" Style="{StaticResource MyNumericUpDown}" Grid.Column="1" Grid.Row="5"/>
+                <Controls:NumericUpDown Value="{Binding pH7, Mode=TwoWay}" Style="{StaticResource MyNumericUpDown}" Grid.Column="0" Grid.Row="6"/>
+                <Controls:NumericUpDown Value="{Binding pH17, Mode=TwoWay}" Style="{StaticResource MyNumericUpDown}" Grid.Column="1" Grid.Row="6"/>
+                <Controls:NumericUpDown Value="{Binding pH8, Mode=TwoWay}" Style="{StaticResource MyNumericUpDown}" Grid.Column="0" Grid.Row="7"/>
+                <Controls:NumericUpDown Value="{Binding pH18, Mode=TwoWay}" Style="{StaticResource MyNumericUpDown}" Grid.Column="1" Grid.Row="7"/>
+                <Controls:NumericUpDown Value="{Binding pH9, Mode=TwoWay}" Style="{StaticResource MyNumericUpDown}" Grid.Column="0" Grid.Row="8"/>
+                <Controls:NumericUpDown Value="{Binding pH19, Mode=TwoWay}" Style="{StaticResource MyNumericUpDown}" Grid.Column="1" Grid.Row="8"/>
+                <Controls:NumericUpDown Value="{Binding pH10, Mode=TwoWay}" Style="{StaticResource MyNumericUpDown}" Grid.Column="0" Grid.Row="9"/>
+                <Controls:NumericUpDown Value="{Binding pH20, Mode=TwoWay}" Style="{StaticResource MyNumericUpDown}" Grid.Column="1" Grid.Row="9"/>
+
+        </Grid>
+            <TextBlock Text="pH Average:" Style="{StaticResource MyTextBlockHeader}" HorizontalAlignment="Center" Margin="0 10 0 0"/>
+            <TextBlock Text="{Binding CalcAverage, Mode=TwoWay}" Style="{StaticResource MyTextBlockHeader}" HorizontalAlignment="Center" Margin="0 5 0 0" />
+
+
+        </StackPanel>
+    </Border>
+</Controls:MetroWindow>
